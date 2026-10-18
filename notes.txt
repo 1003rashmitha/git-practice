@@ -1,2 +1,3 @@
 "trying git"
 another line 
+My project notes
